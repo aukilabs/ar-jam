@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 638110b22c9a4d848ec18ed35e1cf219, type: 3}
+  m_Name: _appConfig
+  m_EditorClassIdentifier: 
+  handMaterial: {fileID: 2100000, guid: a054aafaf74934b07b51c252fbd40f2d, type: 2}
+  handParticlesPrefab: {fileID: 2969549832066710545, guid: 683f4c7210a0c473598057a9506a99ce,
+    type: 3}
+  fingerParticlesPrefab: {fileID: 3184052983160299475, guid: 2f91ab5fa500a4bcfacf83f72125583d,
+    type: 3}
+  conjureKitConfig:
+    appKey: b9021fbc-3c9c-47ce-973e-c42eb0099217
+    appSecret: e25c7754-39a8-44e2-a3ca-df479e83a71e62771680-58d4-46db-a9c3-c0ed8cfc85ec
+  instrumentConfig:
+    mixerGroup: {fileID: -2889496829019519964, guid: 26c750dfc3570401788ad9d804e47ef8,
+      type: 2}
+    channel0:
+      audioClip: {fileID: 8300000, guid: 71fa5be59f6ed45e59376a70bd400059, type: 3}
+      mixerGroup: {fileID: -9133575253461267397, guid: 26c750dfc3570401788ad9d804e47ef8,
+        type: 2}
+      maxVolume: 1
+      pitch: 1
+    channel1:
+      audioClip: {fileID: 8300000, guid: b9a5735d243de43f7a73a07287eb30bd, type: 3}
+      mixerGroup: {fileID: -179619290894359625, guid: 26c750dfc3570401788ad9d804e47ef8,
+        type: 2}
+      maxVolume: 1
+      pitch: 1
+    channel2:
+      audioClip: {fileID: 8300000, guid: 596e7e3f27c6c45478ec907635ec03e9, type: 3}
+      mixerGroup: {fileID: -4782411414632915805, guid: 26c750dfc3570401788ad9d804e47ef8,
+        type: 2}
+      maxVolume: 0.8
+      pitch: 1
+    channel3:
+      audioClip: {fileID: 8300000, guid: f44c273dabc4443c7859e408c71a7a9e, type: 3}
+      mixerGroup: {fileID: 291799126543474917, guid: 26c750dfc3570401788ad9d804e47ef8,
+        type: 2}
+      maxVolume: 1
+      pitch: 1
+    channel4:
+      audioClip: {fileID: 8300000, guid: 752538f5742f14db19f8dc59de840123, type: 3}
+      mixerGroup: {fileID: 4543882730611260545, guid: 26c750dfc3570401788ad9d804e47ef8,
+        type: 2}
+      maxVolume: 1
+      pitch: 1
