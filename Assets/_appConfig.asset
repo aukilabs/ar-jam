@@ -18,8 +18,8 @@ MonoBehaviour:
   fingerParticlesPrefab: {fileID: 3184052983160299475, guid: 2f91ab5fa500a4bcfacf83f72125583d,
     type: 3}
   conjureKitConfig:
-    appKey: b9021fbc-3c9c-47ce-973e-c42eb0099217
-    appSecret: e25c7754-39a8-44e2-a3ca-df479e83a71e62771680-58d4-46db-a9c3-c0ed8cfc85ec
+    appKey: put-your-app-key-from-auki-console-here
+    appSecret: put-your-app-secret-from-auki-console-here
   instrumentConfig:
     mixerGroup: {fileID: -2889496829019519964, guid: 26c750dfc3570401788ad9d804e47ef8,
       type: 2}
